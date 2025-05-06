@@ -3,7 +3,7 @@ layout: home
 title: Welcome to My Portfolio
 ---
 
-# Hi, I'm [Your Name]
+# Hi, I'm Michael Fillalan
 
 I'm a [your role, e.g., Full-Stack Developer] passionate about building impactful projects. Below are some of my favorite GitHub projects.
 

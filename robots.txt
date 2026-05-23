@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mfillalan.github.io/sitemap.xml
+Sitemap: https://mfillalan.github.io/mfillalan-portfolio/sitemap.xml
